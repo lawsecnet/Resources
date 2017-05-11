@@ -6,7 +6,7 @@
 
 [International edition | The Guardian](https://www.theguardian.com/international)
 
-[The New York Times](https://www.nytimes.com/_
+[The New York Times](https://www.nytimes.com/)
 
 [Politico EU](http://www.politico.eu/)
 
