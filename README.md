@@ -9,5 +9,5 @@ The list includes sources on computer security as well tradidional tradecraft, i
 Feel free to copy/branch this repository and use for your own endeavours :-)
 
 1. [Cyber](Cyber.md) - Cybersecurity news and analysis
-2. [Security\Policy](Security_\_Policy.md) - National security policy analysis and military analysis
+2. [Security\Policy](Security_Policy.md) - National security policy analysis and military analysis
 3. [News](News.md) - Major world news sources
