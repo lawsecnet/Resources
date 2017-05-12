@@ -18,6 +18,6 @@ Sources related to Chinese law and national security, especially criminal proced
 
 [The Routledge Handbook of Chinese Criminology](https://books.google.de/books?id=5dgpAAAAQBAJ&dq=china+law+Technical+Investigation+Measures&hl=pl&source=gbs_navlinks_s) - comprehensive handbook on criminological trends in China.
 
-[Chinese Intelligence Operations](https://books.google.dk/books?id=Mg8O3Gtc08MC&printsec=frontcover&hl=pl#v=onepage&q&f=false) - bit old and hard to find, bu must-read for understanding Chinese espionage apparatus.
+[Chinese Intelligence Operations](https://books.google.dk/books?id=Mg8O3Gtc08MC&printsec=frontcover&hl=pl#v=onepage&q&f=false) - bit old and hard to find, but must-read for understanding Chinese espionage apparatus.
 
 [China Law Translate](http://www.chinalawtranslate.com/?lang=en) - great source of Chinese law translations.

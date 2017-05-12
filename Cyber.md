@@ -20,6 +20,8 @@
 
 [Light Blue Touchpaper](https://www.lightbluetouchpaper.org/) - University of Cambridge Computer Laboratory's blog. Lots of great academic writing on security engineering.
 
+[International Journal of Proof of Concept or GTFO](https://www.alchemistowl.org/pocorgtfo/) - zin on reversing, be sure to check in how many ways you can open the file :)
+
 [Troy Hunt](https://www.troyhunt.com/) - Have I been pwned?'s creator personal website.
 
 [Zaufana Trzecia Strona](https://www.z3s.pl) - Best Polish infosec blog.

@@ -8,7 +8,9 @@ Links to various CTF type games.
 
 [Hack This Site!](https://www.hackthissite.org/) - collection of hacking challenges, mainly web app security.
 
-[Embedded Security CTF] - microcorruption CTF, amazing introduction to assembly/reverse engineering.
+[Enigma Group](http://www.enigmagroup.org/) - more challanges.
+
+[Embedded Security CTF](https://microcorruption.com/login) - microcorruption CTF, amazing introduction to assembly/reverse engineering.
 
 [OverTheWire](http://overthewire.org/wargames/) - wargames of various difficulty.
 

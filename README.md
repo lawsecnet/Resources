@@ -13,3 +13,4 @@ Feel free to copy/branch this repository and use for your own endeavours :-)
 3. [News](News.md) - Major world news sources
 4. [Information security training materials](/infosec_training/)
 5. [PhD research sources](/PhD/)
+6. [MA research sources](/Ma/)

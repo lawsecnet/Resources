@@ -18,4 +18,4 @@
 
 [The War Hall (membership requried)](https://warontherocks.memberful.com/auth/sign_in) - War On The Rock's messaging board, required WotR membership, but highly recommended.
 
-[r/CredibleDefense])(https://www.reddit.com/r/CredibleDefense/) - subreddit dedicated to military policy, startegy, technology discussion.
+[r/CredibleDefense](https://www.reddit.com/r/CredibleDefense/) - subreddit dedicated to military policy, startegy, technology discussion.
