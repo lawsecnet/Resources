@@ -10,7 +10,7 @@ Online learning materials - lectures, tutorials, MOOCs.
 
 [CS7038-Malware-Analysis by ckane](http://class.malware.re/) - malware analysis course from University of Cincinnati.
 
-[Cyber Security Base with F‑Secure](http://mooc.fi/courses/2016/cybersecurity/) - cyersecurity course from F-Secure and University of Helsinki. Supposedly all you need to know to start working as junior security consultatn at F-Secure.
+[Cyber Security Base with F‑Secure](http://mooc.fi/courses/2016/cybersecurity/) - cybersecurity course from F-Secure and University of Helsinki. Supposedly all you need to know to start working as junior security consultantat F-Secure.
 
 [Exploit Development Environment — Improsec](https://improsec.com/blog//exploit-development-environment) - short article on preparing effective exploit development environment.
 
@@ -32,7 +32,7 @@ Online learning materials - lectures, tutorials, MOOCs.
 
 [RPISEC/Malware](https://github.com/RPISEC/Malware) - free malware analysis course + labs.
 
-[The Basics of Web Application Security](https://martinfowler.com/articles/web-security-basics.html) - broad-stokes view of most popular web application vulnerabilities.
+[The Basics of Web Application Security](https://martinfowler.com/articles/web-security-basics.html) - broad-strokes view of most popular web application vulnerabilities.
 
 [Tradecraft - Red Team Operations](https://www.youtube.com/playlist?list=PL9HO6M_MU2nesxSmhJjEvwLhUoHPHmXvz) - Metasploit/Cobalt Strike course from Raphael Mudge.
 
