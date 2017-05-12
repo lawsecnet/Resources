@@ -14,9 +14,13 @@
 
 [Threat Research Blog | FireEye Inc](https://www.fireeye.com/blog/threat-research.html) - FireEye's technical intelligence blog.
 
+[Fox-IT](https://blog.fox-it.com/) - Fox-IT threat intelligence blog.
+
 [Risky Business | Risky Business](https://risky.biz/netcasts/risky-business/) - great podcast on infosec latest affairs.
 
 [Light Blue Touchpaper](https://www.lightbluetouchpaper.org/) - University of Cambridge Computer Laboratory's blog. Lots of great academic writing on security engineering.
+
+[Troy Hunt](https://www.troyhunt.com/) - Have I been pwned?'s creator personal website.
 
 [Zaufana Trzecia Strona](https://www.z3s.pl) - Best Polish infosec blog.
 
