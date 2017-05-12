@@ -12,6 +12,8 @@ Sources related to Chinese law and national security, especially criminal proced
 
 [Understanding China’s Cybersecurity Law](https://www.lawfareblog.com/understanding-chinas-cybersecurity-law) - lawfare post on new cyber policy act in China.
 
+[Did China Quietly Authorize Law Enforcement to Access Data Anywhere in the World?](https://www.lawfareblog.com/did-china-quietly-authorize-law-enforcement-access-data-anywhere-world) - lawfare on changes in China's jurisdiction in cybercrime cases.
+
 [The Politics of Law and Stability in China](https://books.google.de/books?id=EEojBAAAQBAJ&dq=china+law+Technical+Investigation+Measures&hl=pl&source=gbs_navlinks_s) - handbook on Chinese criminal law policy.
 
 [The Routledge Handbook of Chinese Criminology](https://books.google.de/books?id=5dgpAAAAQBAJ&dq=china+law+Technical+Investigation+Measures&hl=pl&source=gbs_navlinks_s) - comprehensive handbook on criminological trends in China.
