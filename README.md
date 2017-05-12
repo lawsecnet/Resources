@@ -11,3 +11,5 @@ Feel free to copy/branch this repository and use for your own endeavours :-)
 1. [Cyber](Cyber.md) - Cybersecurity news and analysis
 2. [Security\Policy](Security_Policy.md) - National security policy analysis and military analysis
 3. [News](News.md) - Major world news sources
+4. [Information security training materials](/infosec_training/)
+5. [PhD research sources](/PhD/)
