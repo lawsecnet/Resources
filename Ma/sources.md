@@ -22,8 +22,6 @@ Online resources used during work on MA disseration - partially in Polish
 
 [Dostęp służb do billingów, filtrowanie sieci... przegląd 5 problemów jakie stoją przed PiS - Biznes, Finanse i Prawo](http://di.com.pl/dostep-sluzb-do-billingow-filtrowanie-sieci-przeglad-5-problemow-jakie-stoja-przed-pis-53643)
 
-Draft Investigatory Powers Bill: related documents - GOV.UK
-
 [EPIC - Data Retention](https://epic.org/privacy/intl/data_retention.html)
 
 [EU Law Analysis: The data retention judgment: The CJEU prohibits mass surveillance](http://eulawanalysis.blogspot.dk/2014/04/the-data-retention-judgment-cjeu.html)
