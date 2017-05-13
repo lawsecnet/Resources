@@ -4,7 +4,7 @@
 
 [Motherboard](https://motherboard.vice.com/en_us) - Vice's technology news section.
 
-[Passcode - The Christian Science Monitor](http://www.csmonitor.com/World/Passcode) - CSM's technology section, not always breaking news, but many good articles can be found.
+[Invisble Things Lab](https://blog.invisiblethings.org/) - Invisible Things Lab blog - currently mainly updates on Quebes OS project.
 
 [Risk Assessment | Ars Technica](https://arstechnica.com/security/) - Ars Technica's cybersecurity site, often first to report and analyse vulns and breaches.
 
@@ -13,6 +13,8 @@
 [Security | WIRED](https://www.wired.com/category/security) - Wired's security site. Solid amount of news and analysis.
 
 [Threat Research Blog | FireEye Inc](https://www.fireeye.com/blog/threat-research.html) - FireEye's technical intelligence blog.
+
+[The Shield](https://blog.lookout.com/) - Lookout (guys known for iPhone's Trident analysis) blog. Lot of good articles on mobile security.
 
 [Fox-IT](https://blog.fox-it.com/) - Fox-IT threat intelligence blog.
 
