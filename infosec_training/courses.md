@@ -18,6 +18,8 @@ Online learning materials - lectures, tutorials, MOOCs.
 
 [Linux Sysadmin Basics](https://www.youtube.com/watch?v=bju_FdCo42w&list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK) - Linux environment basics.
 
+[Know Windows processes or die trying](http://www.sysforensics.org/2014/01/know-your-windows-processes/) - cheat sheet style guide for most important Windows processes. Essential for malware hunting.
+
 [Malware Analysis for the Incident Responder](https://blogs.cisco.com/security/malware-analysis-for-the-incident-responder) - Cisco best practises for malware analysis.
 
 [Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed/) - free course on Metasploit from Offensive Security.
@@ -29,6 +31,8 @@ Online learning materials - lectures, tutorials, MOOCs.
 [OWASP Top 10 Free CBT · Security Compass](http://www.securitycompass.com/training/free/course-demos/) - few free trainings on OWASP top 10 vulns.
 
 [Recommended Reading | The Homepage of @attrc](http://dfir.org/?q=node/8) - list of recomended books on topics ranging from OS internals to traditional tradecraft by Andrew Case.
+
+[r/netsec wiki](https://pay.reddit.com/r/netsec/wiki/start) - link list of resources fo starting in information security.
 
 [RPISEC/Malware](https://github.com/RPISEC/Malware) - free malware analysis course + labs.
 
