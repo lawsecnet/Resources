@@ -18,6 +18,10 @@
 
 [Fox-IT](https://blog.fox-it.com/) - Fox-IT threat intelligence blog.
 
+[Malwarebytes Blog](https://blog.malwarebytes.com/) - Malwarebytes laboratory threat intelligence blog.
+
+[Crowdstrike](https://www.crowdstrike.com/blog/category/threat-intel-research/) - Crowdstrike threat intel, lot of good articles, but unfortunately bit too 'adverstising' oriented.
+
 [Risky Business | Risky Business](https://risky.biz/netcasts/risky-business/) - great podcast on infosec latest affairs.
 
 [Light Blue Touchpaper](https://www.lightbluetouchpaper.org/) - University of Cambridge Computer Laboratory's blog. Lots of great academic writing on security engineering.
@@ -25,6 +29,8 @@
 [Berkman Klein Center For Internet & Society](https://cyber.harvard.edu/) - Harvard's security and policy research center.
 
 [International Journal of Proof of Concept or GTFO](https://www.alchemistowl.org/pocorgtfo/) - zin on reversing, be sure to check in how many ways you can open the file :)
+
+[2600](https://www.2600.com/) - official side of the legendary 2600 magazine.
 
 [Troy Hunt](https://www.troyhunt.com/) - Have I been pwned?'s creator personal website.
 
