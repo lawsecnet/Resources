@@ -28,4 +28,6 @@
 
 [Think Defense](http://www.thinkdefence.co.uk/) - British military analysis institute.
 
+[CIA Library](https://www.cia.gov/library/index.html) - The World Factbook, FOIA released documents and lots of free materials on intelligence, mainly methodology and HUMINT.
+
 [China Maritime Studies](https://www.usnwc.edu/Publications/Publications.aspx) - journal of US Naval War College. Great source on Chinese maritime strategy, policy and military technology.
