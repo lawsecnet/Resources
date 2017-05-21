@@ -12,5 +12,6 @@ Feel free to copy/branch this repository and use for your own endeavours :-)
 2. [Security\Policy](Security_Policy.md) - National security policy analysis and military analysis
 3. [News](News.md) - Major world news sources
 4. [Information security training materials](/infosec_training/)
-5. [PhD research sources](/PhD/)
-6. [MA research sources](/Ma/)
+5. [Industrial espionage stories and analysis](industrial_espionage.md)
+6. [PhD research sources](/PhD/)
+7. [MA research sources](/Ma/)
