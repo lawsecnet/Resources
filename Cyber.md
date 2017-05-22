@@ -1,5 +1,7 @@
 # Cyber
 
+Cybersecurity news and analysis
+
 [Krebs on Security](http://krebsonsecurity.com/) - internet's best cyberdetective, serious investigative journalism and indepth analysis of cybercrime groups.
 
 [Motherboard](https://motherboard.vice.com/en_us) - Vice's technology news section.
