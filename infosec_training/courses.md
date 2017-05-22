@@ -6,11 +6,11 @@ Online learning materials - lectures, tutorials, MOOCs.
 
 [2015 Fall: 15-213 Introduction to Computer Systems](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&sortColumn=1&sortAscending=true) - CMU course on computer systems, including boolean logic, memory concepts, C programming and debugging. Highly recommended.
 
-[CCNA by Andrew Crouthamel](https://www.youtube.com/playlist?list=PLmdYg02XJt6QRQfYjyQcMPfS3mrSnFbRC) - step-by-step cource for CCNA.
+[CCNA by Andrew Crouthamel](https://www.youtube.com/playlist?list=PLmdYg02XJt6QRQfYjyQcMPfS3mrSnFbRC) - step-by-step course for CCNA.
 
 [CS7038-Malware-Analysis by ckane](http://class.malware.re/) - malware analysis course from University of Cincinnati.
 
-[Cyber Security Base with F‑Secure](http://mooc.fi/courses/2016/cybersecurity/) - cybersecurity course from F-Secure and University of Helsinki. Supposedly all you need to know to start working as junior security consultantat F-Secure.
+[Cyber Security Base with F‑Secure](http://mooc.fi/courses/2016/cybersecurity/) - cybersecurity course from F-Secure and University of Helsinki. Supposedly all you need to know to start working as junior security consultant at F-Secure.
 
 [Exploit Development Environment — Improsec](https://improsec.com/blog//exploit-development-environment) - short article on preparing effective exploit development environment.
 
@@ -18,7 +18,7 @@ Online learning materials - lectures, tutorials, MOOCs.
 
 [Linux Sysadmin Basics](https://www.youtube.com/watch?v=bju_FdCo42w&list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK) - Linux environment basics.
 
-[Know Windows processes or die trying](http://www.sysforensics.org/2014/01/know-your-windows-processes/) - cheat sheet style guide for most important Windows processes. Essential for malware hunting.
+[Know Windows processes or die trying](http://www.sysforensics.org/2014/01/know-your-windows-processes/) - cheat sheet style guide for the most important Windows processes. Essential for malware hunting.
 
 [Malware Analysis for the Incident Responder](https://blogs.cisco.com/security/malware-analysis-for-the-incident-responder) - Cisco best practises for malware analysis.
 
