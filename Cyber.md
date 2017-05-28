@@ -24,7 +24,7 @@ Cybersecurity news and analysis
 
 [Crowdstrike](https://www.crowdstrike.com/blog/category/threat-intel-research/) - Crowdstrike threat intel, lot of good articles, but unfortunately bit too 'adverstising' oriented.
 
-[Risky Business | Risky Business](https://risky.biz/netcasts/risky-business/) - great podcast on infosec latest affairs.
+[Risky Business](https://risky.biz/netcasts/risky-business/) - great podcast on infosec latest affairs.
 
 [Light Blue Touchpaper](https://www.lightbluetouchpaper.org/) - University of Cambridge Computer Laboratory's blog. Lots of great academic writing on security engineering.
 
