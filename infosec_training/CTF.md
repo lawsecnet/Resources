@@ -29,3 +29,5 @@ Links to various CTF type games.
 [WebGoat](https://github.com/jerryhoff/WebGoat.NET) - WebGoat - vulnerable web app for testing OWASP top 10 vulnerabilities.
 
 [XSS-Game](https://xss-game.appspot.com/) - simple xss challenges.
+
+[Exploit exercises](https://exploit-exercises.com/) - collection of VMs for exploitation training.
