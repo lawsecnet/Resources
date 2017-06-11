@@ -51,3 +51,5 @@ Online learning materials - lectures, tutorials, MOOCs.
 [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - another list of various CTFs and repositories.
 
 [Program Analysis Reading List — Möbius Strip Reverse Engineering](http://www.msreverseengineering.com/program-analysis-reading-list/) - recommended reading list for foundations of reverse engineering.
+
+[Awesome-reversing](https://github.com/fdivrp/awesome-reversing) - reverse engineering resources list.
