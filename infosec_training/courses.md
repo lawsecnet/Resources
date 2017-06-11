@@ -53,3 +53,5 @@ Online learning materials - lectures, tutorials, MOOCs.
 [Program Analysis Reading List — Möbius Strip Reverse Engineering](http://www.msreverseengineering.com/program-analysis-reading-list/) - recommended reading list for foundations of reverse engineering.
 
 [Awesome-reversing](https://github.com/fdivrp/awesome-reversing) - reverse engineering resources list.
+
+[Dr Fu's malware analysis and reverse engineering tutorial](http://fumalwareanalysis.blogspot.dk/p/malware-analysis-tutorials-reverse.html)
