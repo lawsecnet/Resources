@@ -41,3 +41,7 @@ Cybersecurity news and analysis
 [/r/netsec](https://www.reddit.com/r/netsec/) - Information security subreddit.
 
 [KernelMode Malware forum](http://www.kernelmode.info/forum/viewforum.php?f=16&sid=3bd3a135472d94afb62ec4edb48044fc) - place for discussion on malware analysis/low level exploitation.
+
+[Electrospaces](http://electrospaces.blogspot.cz/) - Commentary on SIGINT, governmsnt level telecommunication.
+
+[Securelist](https://securelist.com/) - Kaspersky Lab blog on ifosec news.
