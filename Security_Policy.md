@@ -4,6 +4,10 @@
 
 [Lawfare](http://www.lawfareblog.com/) - leading US natsec blog.
 
+[Emptywheel](https://www.emptywheel.net/) - Marcy Wheeler's natsec blog.
+
+[JustSecurity](https://www.justsecurity.org/) - Natsec blog, more progressive leaning than Lawfare.
+
 [The Cipher Brief](https://www.thecipherbrief.com/) - focused mainly on geopolitics, but articles on security/cyber are also often included.
 
 [The Bulletin of the Atomic Scientists](http://thebulletin.org/) - scientific journal on global threats and nuclear power/nuclear arms, most famous for The Doomsday Clock.
@@ -11,6 +15,8 @@
 [the grugq @Medium](https://medium.com/@thegrugq/) - the_grugq's blog at medium.
 
 [War on the Rocks](https://warontherocks.com/) - GREAT source of contemporary and historical military analysis.
+
+[Center for Strategic and International Studies](https://www.csis.org/) - leading natsec/foreign policy think tank, lot of available publications.
 
 [Defense One](http://www.defenseone.com/) - military news and analysis.
 
@@ -31,3 +37,5 @@
 [CIA Library](https://www.cia.gov/library/index.html) - The World Factbook, FOIA released documents and lots of free materials on intelligence, mainly methodology and HUMINT.
 
 [China Maritime Studies](https://www.usnwc.edu/Publications/Publications.aspx) - journal of US Naval War College. Great source on Chinese maritime strategy, policy and military technology.
+
+[PLA Real Talk](https://plarealtalk.com) - blog on PLA developments, often information ot found anywhere else.
