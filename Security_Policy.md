@@ -32,6 +32,10 @@
 
 [r/CredibleDefense](https://www.reddit.com/r/CredibleDefense/) - subreddit dedicated to military policy, startegy, technology discussion.
 
+[Russian strategic nuclear forces](http://russianforces.org/) - blog on Russian strategic capabilities.
+
+[Covert Shores](http://www.hisutton.com/) - blog on submarine technology and history.
+
 [Think Defense](http://www.thinkdefence.co.uk/) - British military analysis institute.
 
 [CIA Library](https://www.cia.gov/library/index.html) - The World Factbook, FOIA released documents and lots of free materials on intelligence, mainly methodology and HUMINT.
